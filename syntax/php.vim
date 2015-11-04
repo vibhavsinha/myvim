@@ -406,7 +406,7 @@ endif
 
 " Todo
 syn case match
-syn keyword phpTodo TODO FIXME XXX NOTE contained
+syn keyword phpTodo TODO FIXME XXX NOTE BUG contained
 syn case ignore
 
 " Comment
